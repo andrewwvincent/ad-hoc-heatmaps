@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="preferred">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="other">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Beacon Academy</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Beacon Academy</h3>
+        <p><strong>Address:</strong> 1574 Sherman Ave, Evanston, IL 60201</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $33,495</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.682299,42.046241</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>British International School of Chicago, Lincoln Park</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>British International School of Chicago, Lincoln Park</h3>
+        <p><strong>Address:</strong> 814 & 821 W. Eastman St., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $36,600</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.648916,41.907459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Catherine Cook School</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Catherine Cook School</h3>
+        <p><strong>Address:</strong> 226 W. Schiller St., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $36,450</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.635854,41.907885</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago Academy for the Arts</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Chicago Academy for the Arts</h3>
+        <p><strong>Address:</strong> 1010 W. Chicago Ave., Chicago, IL 60642</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $36,000</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.653055,41.896549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago City Day School</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Chicago City Day School</h3>
+        <p><strong>Address:</strong> 541 W. Hawthorne Place, Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $35,600</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.642766,41.944136</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago Jewish Day School</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Chicago Jewish Day School</h3>
+        <p><strong>Address:</strong> 3730 N. California Ave., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $32,520</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.698465,41.949417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Francis W. Parker School</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Francis W. Parker School</h3>
+        <p><strong>Address:</strong> 330 W. Webster Ave., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $42,320</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.638071,41.92308</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hyde Park Day School</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Hyde Park Day School</h3>
+        <p><strong>Address:</strong> 6254 S. Ellis Ave., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $35,906</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.601451,41.78073</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Shore Country Day School</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>North Shore Country Day School</h3>
+        <p><strong>Address:</strong> 310 Green Bay Rd, Winnetka, IL 60093</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $41,425</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.73015,42.09848</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sacred Heart Schools Chicago</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Sacred Heart Schools Chicago</h3>
+        <p><strong>Address:</strong> 6250 N. Sheridan Road, Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $41,950</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.6559,41.99611</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of Chicago Laboratory Schools</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>University of Chicago Laboratory Schools</h3>
+        <p><strong>Address:</strong> 1362 E. 59th St., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $42,510</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.593946,41.788187</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Bear Academy</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Black Bear Academy</h3>
+        <p><strong>Address:</strong> 1801 W. Byron St., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $36,000</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.67437,41.952173</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Bird Day</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Blue Bird Day</h3>
+        <p><strong>Address:</strong> 1233 W. Adams St., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $30,000</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.658293,41.878757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>British International School of Chicago, South Loop</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>British International School of Chicago, South Loop</h3>
+        <p><strong>Address:</strong> 161 W. 9th St., Chicago</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $41,950</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.632766,41.870236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Forest Academy</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Lake Forest Academy</h3>
+        <p><strong>Address:</strong> 1500 Kennedy Rd, Lake Forest, IL 60045</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $53,200</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.88304,42.24032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rochelle Zell Jewish High School</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Rochelle Zell Jewish High School</h3>
+        <p><strong>Address:</strong> 1095 Lake Cook Rd, Deerfield, IL 60015</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $34,450</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.85412,42.15113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodlands Academy of the Sacred Heart</name>
+      <styleUrl>#preferred</styleUrl>
+      <description><![CDATA[
+        <h3>Woodlands Academy of the Sacred Heart</h3>
+        <p><strong>Address:</strong> 760 E Westleigh Rd, Lake Forest, IL 60045</p>
+        <p><strong>Region:</strong> Chicago</p>
+        <p><strong>Tuition:</strong> $31,900</p>
+        
+        <p><strong>Type:</strong> Preferred Location</p>
+      ]]></description>
+      <Point>
+        <coordinates>-87.829381,42.235221</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
