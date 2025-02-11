@@ -20,7 +20,7 @@ class CORSHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             print(f"Error handling request: {e}")
 
 if __name__ == '__main__':
-    PORT = 8001
+    PORT = 5000
     
     # Change to the directory containing this script
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
